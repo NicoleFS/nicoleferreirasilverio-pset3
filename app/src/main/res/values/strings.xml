@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nicoleferreirasilverio-pset3</string>
+
+    <string name="welcome_text">Search for a movie to add it to your watchlist</string>
+
+    <string name="search_text">Movie</string>
+
+    <string name="button_search">Go!</string>
+</resources>
